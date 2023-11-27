@@ -1,3 +1,2 @@
 git checkout main
-git fetch origin main
-git merge origin/main
+git pull origin main
